@@ -1,7 +1,27 @@
 [![](https://visitcount.itsvg.in/api?id=omjain1&icon=7&color=4)](https://visitcount.itsvg.in)
 <h1 align="center"> 💫 Namaste World, I'm Kapish Jain</h1>
-🌱 I’m currently learning Machine Learning, React<br>💬 Ask me about Python, SQL, C<br>👨‍💻 All of my projects are available at <a href="https://omjain1.github.io/portfolioKJ/">Portfolio</a><br>📄 Know about my experiences <a href = "https://drive.google.com/file/d/1SqDnovf5Vt5LKYAYIX26kvYT_lczx5PR/view?usp=sharing">Resume</a><br>📫 How to reach me: jkapish000@gmail.com<br>⚡ Fun fact: The first-ever computer had a weight of over 27 Tons
+👨‍💻 All of my projects are available at <a href="https://omjain1.github.io/portfolioKJ/">Portfolio</a><br>📄 Know about my experiences <a href = "https://drive.google.com/file/d/1SqDnovf5Vt5LKYAYIX26kvYT_lczx5PR/view?usp=sharing">Resume</a><br>📫 How to reach me: jkapish000@gmail.com<br>⚡ Fun fact: The first-ever computer had a weight of over 27 Tons
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Kapish Jain"
+        self.role = "Aspiring Software Engineer"
+        self.language_spoken = ["KJ", "हिंदी","en_IND"]
+        self.Other_languages_spoken = ["Python", "C++", "C", "Javascript"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Connect me On my LinkedIn")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pheonix5781) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not.kapish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapishj)
@@ -21,8 +41,8 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omjain1&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![](https://github-readme-stats.vercel.app/api?username=omjain1&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omjain1&theme=merko&hide_border=false)<br/>
 
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 ---
