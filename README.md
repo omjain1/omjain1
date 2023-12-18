@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=omjain1&icon=7&color=4)](https://visitcount.itsvg.in)
 <h1 align="center"> 💫 Namaste World, I'm Kapish Jain</h1>
-👨‍💻 All of my projects are available at <a href="https://omjain1.github.io/portfolioKJ/">Portfolio</a><br>📄 Know about my experiences <a href = "https://drive.google.com/file/d/1SqDnovf5Vt5LKYAYIX26kvYT_lczx5PR/view?usp=sharing">Resume</a><br>📫 How to reach me: jkapish000@gmail.com<br>⚡ Fun fact: The first-ever computer had a weight of over 27 Tons
-<br> <br>
+👨‍💻 All of my projects are available at <a href="https://omjain1.github.io/portfolioKJ/">Portfolio</a><br>📄 Know about my experiences <a href = "https://drive.google.com/file/d/1SqDnovf5Vt5LKYAYIX26kvYT_lczx5PR/view?usp=sharing">Resume</a><br>📫 How to reach me: jkapish000@gmail.com<br>⚡ Fun fact: The first-ever computer had a weight of over 27 Tons<br> 
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
