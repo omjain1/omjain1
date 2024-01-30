@@ -1,4 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=omjain1&icon=7&color=4)](https://visitcount.itsvg.in)
+[![Wakatime Stat](https://wakatime.com/badge/user/be52e3d2-510d-487f-b861-e4b1823a4d38.svg)](https://wakatime.com/@be52e3d2-510d-487f-b861-e4b1823a4d38)
+[![GitHub Stars](https://img.shields.io/github/stars/kunal-ma?color=yellow&style=flat&label=Stars)](https://github.com/kunal-ma?tab=repositories)
+[![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center"> 💫 Namaste World, I'm Kapish Jain</h1> <br>
 
 ```python
