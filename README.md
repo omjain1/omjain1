@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=omjain1&icon=7&color=4)](https://visitcount.itsvg.in)
 [![Wakatime Stat](https://wakatime.com/badge/user/be52e3d2-510d-487f-b861-e4b1823a4d38.svg)](https://wakatime.com/@018d5a7e-94a2-4089-b50b-8e9d8931395b)
 [![GitHub Stars](https://img.shields.io/github/stars/omjain1?color=yellow&style=flat&label=Stars)](https://github.com/omjain1?tab=repositories)
-[![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=iZVhZpXVczU))
+[![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)]([https://www.youtube.com/watch?v=iZVhZpXVczU](https://www.youtube.com/watch?v=iZVhZpXVczU))
 <h1 align="center"> 💫 Namaste World, I'm Kapish Jain</h1> <br>
 
 ```python
