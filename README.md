@@ -42,7 +42,7 @@ me.say_hi()
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omjain1&theme=codeSTACKr&hide_border=true&card_width=410)](https://github.com/omjain1?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omjain1&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omjain1&theme=dark&card_width=410)](https://git.io/streak-stats)<br/>
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
